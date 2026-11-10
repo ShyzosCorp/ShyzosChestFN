@@ -1,11 +1,11 @@
-# Compteur de coffres
+# ShyzosChestFN
 
-Compte les coffres que tu ouvres (et ceux que tu casses) dans Fortnite et affiche le total dans
-un petit overlay par-dessus le jeu.
+Le compteur de coffres Fortnite : il compte les coffres que tu ouvres (et ceux que tu casses)
+et affiche le total dans un petit overlay par-dessus le jeu.
 
 ## Télécharger
 
-Prends l'installateur `CompteurDeCoffres_x.y.z_x64-setup.exe` dans la
+Prends l'installateur `ShyzosChestFN_x.y.z_x64-setup.exe` dans la
 [dernière release](https://github.com/ShyzosCorp/ShyzosChestFN/releases/latest), puis lance-le.
 Windows 10 ou 11, 64 bits.
 
